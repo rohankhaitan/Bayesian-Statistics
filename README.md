@@ -1,0 +1,2 @@
+# Bayesian-Data-Analysis
+"Bayesian Data Analysis" was one of the courses I had during my M.Sc. This repository contains some of the course-works. "R" programming language  was used for most of the parts. 
